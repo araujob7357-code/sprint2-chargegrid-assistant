@@ -152,8 +152,7 @@ Os resultados demonstraram comportamento adequado dentro do contexto definido pa
 
 ## Repositório
 
-Inserir link do GitHub.
-
+(https://github.com/araujob7357-code/sprint2-chargegrid-assistant.git)
 ---
 
 ## Vídeo de Demonstração
